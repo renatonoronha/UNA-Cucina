@@ -35,3 +35,8 @@ The site will have a registration system and people who want to post a recipe wi
 Rascunho/ Draw:
 
 ![image](https://github.com/renatonoronha/UNA-Cucina/assets/132279548/95c6b9d4-0925-4011-b9f9-ba3426bb3957)
+
+Logo: 
+
+![image](https://github.com/renatonoronha/UNA-Cucina/assets/132279548/28ece6e2-4f44-4c46-a1d5-bf468ff87cb1)
+
