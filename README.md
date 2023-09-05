@@ -7,6 +7,16 @@ Owners of the project:
 -Renato Noronha
 -Stefany Xavier
 
+PT:
+Proprietários do projeto: -Guilherme Barbosa -Luana Aguilar -Luiz Davi -Paola Nobre -Renato Noronha -Stefany Xavier
+
+Nosso projeto pretende fazer um software de culinária contendo receitas diversas e muito interessantes. Escolhemos este tema porque é algo que as pessoas usam todos os dias, fácil para um primeiro projeto e que todo mundo gosta de comer. Além disso, sabe quando você tem vontade de comer algo diferente? UNA CUCINA tem como objetivo ajudá-lo a descobrir o que você gostaria e aproveitar para lhe mostrar receitas maravilhosas que talvez você não conheça.
+
+O projeto contará com sistema de filtragem de receitas, que serão: alimentos frios; alimentos quentes; vegano; doce; salgado; poucos ingredientes; lanches; saudável; pessoas experientes na cozinha e novatos na cozinha. O site terá sistema de cadastro e quem quiser postar uma receita terá que adquirir um selo de verificação para utilizar este recurso, mesmo assim as receitas enviadas passarão por uma análise de até 5 (cinco) dias úteis para garantir a seriedade do site. Os usuários poderão favoritar receitas, comentar pública ou privadamente. O site obterá receitas financeiras por meio de anúncios que serão exibidos misturados no site. O tempo de resposta do site será de até 3 segundos. A primeira página do site mostrará as receitas mais visualizadas e destacadas. Por fim, o site terá uma opção que será possível alterar o idioma do português para o inglês.
+
+
+
+EN:
 Our project plan to make a cooking software containing diverse and very interesting recipes. We chose this subject because it is something people use every day, easy for a first project and everyone likes to eat. Also, do you know when you feel like eating something different? UNA CUCINA aims to help you discover what you would like and take the opportunity to show you wonderful recipes that you may not know.
 
 The project will have a recipe filtering system, which will be: cold foods; hot foods; vegan; candy; salted; few ingredients; snacks; healthy; people experienced in the kitchen and novices in the kitchen.
