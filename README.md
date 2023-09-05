@@ -1,6 +1,6 @@
 # UNA-Cucina
 
-PT: \n
+PT: 
 
 Proprietários do projeto:
 -Guilherme Barbosa
@@ -16,7 +16,7 @@ O projeto contará com sistema de filtragem de receitas, que serão: alimentos f
 
 
 
-EN: \n
+EN: 
 
 Owners of the project:
 -Guilherme Barbosa
