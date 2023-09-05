@@ -1,14 +1,14 @@
 # UNA-Cucina
-Owners of the project:
+
+PT:
+
+Proprietários do projeto:
 -Guilherme Barbosa
 -Luana Aguilar
 -Luiz Davi
 -Paola Nobre
 -Renato Noronha
 -Stefany Xavier
-
-PT:
-Proprietários do projeto: -Guilherme Barbosa -Luana Aguilar -Luiz Davi -Paola Nobre -Renato Noronha -Stefany Xavier
 
 Nosso projeto pretende fazer um software de culinária contendo receitas diversas e muito interessantes. Escolhemos este tema porque é algo que as pessoas usam todos os dias, fácil para um primeiro projeto e que todo mundo gosta de comer. Além disso, sabe quando você tem vontade de comer algo diferente? UNA CUCINA tem como objetivo ajudá-lo a descobrir o que você gostaria e aproveitar para lhe mostrar receitas maravilhosas que talvez você não conheça.
 
@@ -17,6 +17,14 @@ O projeto contará com sistema de filtragem de receitas, que serão: alimentos f
 
 
 EN:
+
+Owners of the project:
+-Guilherme Barbosa
+-Luana Aguilar
+-Luiz Davi
+-Paola Nobre
+-Renato Noronha
+-Stefany Xavier
 Our project plan to make a cooking software containing diverse and very interesting recipes. We chose this subject because it is something people use every day, easy for a first project and everyone likes to eat. Also, do you know when you feel like eating something different? UNA CUCINA aims to help you discover what you would like and take the opportunity to show you wonderful recipes that you may not know.
 
 The project will have a recipe filtering system, which will be: cold foods; hot foods; vegan; candy; salted; few ingredients; snacks; healthy; people experienced in the kitchen and novices in the kitchen.
