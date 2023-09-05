@@ -1,5 +1,14 @@
 # UNA-Cucina
 
+
+![image](https://github.com/renatonoronha/UNA-Cucina/assets/132279548/433dacba-0ca8-49a7-9c87-6b84b468eb14)
+
+
+Rascunho/ Draw:
+
+![image](https://github.com/renatonoronha/UNA-Cucina/assets/132279548/95c6b9d4-0925-4011-b9f9-ba3426bb3957)
+
+
 PT: 
 
 Proprietários do projeto:
@@ -30,13 +39,4 @@ Our project plan to make a cooking software containing diverse and very interest
 
 The project will have a recipe filtering system, which will be: cold foods; hot foods; vegan; candy; salted; few ingredients; snacks; healthy; people experienced in the kitchen and novices in the kitchen.
 The site will have a registration system and people who want to post a recipe will have to acquire a verification stamp to use this resource, even with that the submitted recipes will undergo a review of up to 5 (five) working days to guarantee the seriousness of the site. Users will be able to favorite recipes, comment publicly or privately. The site will acquire financial income through advertisements that will be displayed mixed on the site. Website response time will be up to 3 seconds. The first page of the site will show the most viewed and highlighted recipes. Finally, the site will have an option that will be possible to change the language from Portuguese to English.
-
-
-Rascunho/ Draw:
-
-![image](https://github.com/renatonoronha/UNA-Cucina/assets/132279548/95c6b9d4-0925-4011-b9f9-ba3426bb3957)
-
-Logo: 
-
-![image](https://github.com/renatonoronha/UNA-Cucina/assets/132279548/28ece6e2-4f44-4c46-a1d5-bf468ff87cb1)
 
