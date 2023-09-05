@@ -25,6 +25,7 @@ Owners of the project:
 -Paola Nobre
 -Renato Noronha
 -Stefany Xavier
+
 Our project plan to make a cooking software containing diverse and very interesting recipes. We chose this subject because it is something people use every day, easy for a first project and everyone likes to eat. Also, do you know when you feel like eating something different? UNA CUCINA aims to help you discover what you would like and take the opportunity to show you wonderful recipes that you may not know.
 
 The project will have a recipe filtering system, which will be: cold foods; hot foods; vegan; candy; salted; few ingredients; snacks; healthy; people experienced in the kitchen and novices in the kitchen.
