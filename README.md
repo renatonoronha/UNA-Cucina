@@ -71,6 +71,7 @@ The site will have a registration system and people who want to post a recipe wi
 **Non-functional requirements**
 
 ● Recipe review system: recipes that users share will be reviewed to be approved or not to be displayed on the website. Which will be within 5 business days.
+
 ● Website response time: within 3 seconds
 
 
