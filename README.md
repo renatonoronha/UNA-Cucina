@@ -41,7 +41,7 @@ O projeto contará com sistema de filtragem de receitas, que serão: receitas fr
 
 ● A página também vai ter troca de linguagem para que seja acessível para usuário que não falam português
 
-
+***
 
 **Requisito não funcionais**
 
@@ -86,7 +86,7 @@ The site will have a registration system and people who want to post a recipe wi
 
 ● The page will also have a language change so that it is accessible to users who do not speak Portuguese
 
-
+***
 
 **Non-functional requirements**
 
