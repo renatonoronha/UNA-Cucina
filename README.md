@@ -23,17 +23,20 @@ Nosso projeto pretende fazer um software de culinária contendo receitas diversa
 
 O projeto contará com sistema de filtragem de receitas, que serão: receitas frios; receitas quentes; receitas vegano; doce; salgado; poucos ingredientes; lanches; saudável; pessoas experientes na cozinha e novatos na cozinha. O site terá sistema de cadastro e quem quiser postar uma receita terá que adquirir um selo de verificação para utilizar este recurso, mesmo assim as receitas enviadas passarão por uma análise de até 5 (cinco) dias úteis para garantir a seriedade do site. Os usuários poderão favoritar receitas, comentar pública ou privadamente. O site obterá receitas financeiras por meio de anúncios que serão exibidos misturados no site. O tempo de resposta do site será de até 3 segundos. A primeira página do site mostrará as receitas mais visualizadas e destacadas. Por fim, o site terá uma opção que será possível alterar o idioma do português para o inglês.
 
-**Requisitos Funcionais:**
-- Deve ter o cadastro de usuários para poder desfrutar das funcionalidades completas do site.
-- Deveria ter um sistema de ranking que aumentará de acordo com avaliações de receitas e participações na comunidade. 
-- Deve ter um mecanismo de filtragem que contará com opções como: Receitas frios; Receitas quentes; Receitas veganas; Doces; Salgados; Poucos ingredientes; Lanches; Receitas saudáveis; Experiente na cozinha; Novato na cozinha.
-- Deveria ter possibilidade de o usuário disponibilizar uma receita no catálogo se a análise for aprovada pela equipe de integridade do site.
-- Deve possuir um sistema da favoritar receitas, publicar comentários públicos ou privados.
-- Deveria ser possível alterar a linguagem de Portugês-Brasil para Inglês.
+**Requisitos funcionais**
 
-**Requisitos Não Funcionais:**
-- A análise de receitas leva 5 (cinco) dias úteis.
-- O tempo de resposta do site é de até 3 segundos.
+-Salvar receitas: O usuário pode salvar as receitas para achar com mais facilidade as próximas vezes que acessarem o site. 
+-Barra de pesquisa: para ter mais facilidade quando for procurar uma recita especifica 
+-Filtros: especificando os estilos de comida, algumas exemplos são: quente, fria, veganas, doces, salgadas, com poucos ingredientes. 
+-Baixar a receita em pdf  
+-Sistema de cadastro: onde o usuário poderá optar por compartilhar novas receitas ou só usar para ver receitas 
+-A primeira página irá exibir receitas em destaques/ mais vistas/ populares  
+-A página também vai ter troca de linguagem para que seja acessível para usuário que não falam português
+
+**Requisito não funcionais**
+
+-Sistema de revisão de receitas: as receitas que os usuários compartilharem serão passadas por revisão para serem ou não aprovadas para serem expostas no site. Que será em até 5 dias uteis. 
+-Tempo de resposta do site: em até 3 segundos  
 
 
 
@@ -53,14 +56,18 @@ Our project plan to make a cooking software containing diverse and very interest
 The project will have a recipe filtering system, which will be: cold recipes; hot recipes; vegan recipes; candy; salted; few ingredients; snacks; healthy; experienced in the kitchen and novices in the kitchen.
 The site will have a registration system and people who want to post a recipe will have to acquire a verification stamp to use this resource, even with that the submitted recipes will undergo a review of up to 5 (five) working days to guarantee the seriousness of the site. Users will be able to favorite recipes, comment publicly or privately. The site will acquire financial income through advertisements that will be displayed mixed on the site. Website response time will be up to 3 seconds. The first page of the site will show the most viewed and highlighted recipes. Finally, the site will have an option that will be possible to change the language from Portuguese to English.
 
-**Functional Requirements:**
-- Must have user registration to be able to enjoy the full functionality of the site.
-- There should be a ranking system that will increase according to revenue reviews and community participation.
-- It must have a filtering mechanism that will have options such as: Cold recipes; Hot recipes; Vegan recipes; Candy; Salted; Few ingredients; Snacks; Healthy recipes; Experienced in the kitchen; Newbie in the kitchen.
-- The user should be able to make a recipe available in the catalog if the analysis is approved by the site's integrity team.
-- Must have a system for bookmarking recipes, posting public or private comments.
-- It should be possible to change the language from Portuguese-Brazil to English.
+**Functional requirements**
 
-**Non-Functional Requirements:**
-- Revenue analysis takes 5 (five) business days.
-- Website response time is up to 3 seconds.
+-Save recipes: The user can save recipes to find them more easily the next time they access the website.
+-Search bar: to make it easier when searching for a specific recipe
+-Filters: specifying food styles, some examples are: hot, cold, vegan, sweet, savory, with few ingredients.
+-Download the recipe in PDF
+-Registration system: where the user can choose to share new recipes or just use it to view recipes
+-The first page will display featured/most viewed/popular recipes
+-The page will also have a language change so that it is accessible to users who do not speak Portuguese
+
+**Non-functional requirements**
+
+-Recipe review system: recipes that users share will be reviewed to be approved or not to be displayed on the website. Which will be within 5 business days.
+-Website response time: within 3 seconds
+
