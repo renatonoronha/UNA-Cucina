@@ -8,7 +8,7 @@ Rascunho/ Draw:
 
 ![image](https://github.com/renatonoronha/UNA-Cucina/assets/132279548/95c6b9d4-0925-4011-b9f9-ba3426bb3957)
 
-===
+***
 
 PT: 
 
@@ -51,7 +51,7 @@ O projeto contará com sistema de filtragem de receitas, que serão: receitas fr
 ● Tempo de resposta do site: em até 3 segundos  
 
 
-===
+***
 
 
 EN: 
