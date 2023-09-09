@@ -39,6 +39,7 @@ O projeto contará com sistema de filtragem de receitas, que serão: receitas fr
 
 ● A página também vai ter troca de linguagem para que seja acessível para usuário que não falam português
 
+
 **Requisito não funcionais**
 
 ● Sistema de revisão de receitas: as receitas que os usuários compartilharem serão passadas por revisão para serem ou não aprovadas para serem expostas no site. Que será em até 5 dias uteis. 
@@ -79,6 +80,8 @@ The site will have a registration system and people who want to post a recipe wi
 ● The first page will display featured/most viewed/popular recipes
 
 ● The page will also have a language change so that it is accessible to users who do not speak Portuguese
+
+
 
 **Non-functional requirements**
 
