@@ -4,7 +4,9 @@
 ![image](https://github.com/renatonoronha/UNA-Cucina/assets/132279548/433dacba-0ca8-49a7-9c87-6b84b468eb14)
 
 
-Rascunho/ Draw:
+
+
+Wireframe:
 
 ![image](https://github.com/renatonoronha/UNA-Cucina/assets/132279548/95c6b9d4-0925-4011-b9f9-ba3426bb3957)
 
