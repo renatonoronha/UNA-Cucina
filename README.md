@@ -26,11 +26,17 @@ O projeto contará com sistema de filtragem de receitas, que serão: receitas fr
 **Requisitos funcionais**
 
 ● Salvar receitas: O usuário pode salvar as receitas para achar com mais facilidade as próximas vezes que acessarem o site. 
+
 ● Barra de pesquisa: para ter mais facilidade quando for procurar uma recita especifica 
+
 ● Filtros: especificando os estilos de comida, algumas exemplos são: quente, fria, veganas, doces, salgadas, com poucos ingredientes. 
+
 ● Baixar a receita em pdf  
+
 ● Sistema de cadastro: onde o usuário poderá optar por compartilhar novas receitas ou só usar para ver receitas 
+
 ● A primeira página irá exibir receitas em destaques/ mais vistas/ populares  
+
 ● A página também vai ter troca de linguagem para que seja acessível para usuário que não falam português
 
 **Requisito não funcionais**
@@ -61,11 +67,17 @@ The site will have a registration system and people who want to post a recipe wi
 **Functional requirements**
 
 ● Save recipes: The user can save recipes to find them more easily the next time they access the website.
+
 ● Search bar: to make it easier when searching for a specific recipe
+
 ● Filters: specifying food styles, some examples are: hot, cold, vegan, sweet, savory, with few ingredients.
+
 ● Download the recipe in PDF
+
 ● Registration system: where the user can choose to share new recipes or just use it to view recipes
+
 ● The first page will display featured/most viewed/popular recipes
+
 ● The page will also have a language change so that it is accessible to users who do not speak Portuguese
 
 **Non-functional requirements**
