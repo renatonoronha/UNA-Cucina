@@ -36,6 +36,7 @@ O projeto contará com sistema de filtragem de receitas, que serão: receitas fr
 **Requisito não funcionais**
 
 ● Sistema de revisão de receitas: as receitas que os usuários compartilharem serão passadas por revisão para serem ou não aprovadas para serem expostas no site. Que será em até 5 dias uteis. 
+
 ● Tempo de resposta do site: em até 3 segundos  
 
 
