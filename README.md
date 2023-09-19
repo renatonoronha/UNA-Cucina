@@ -97,4 +97,8 @@ The site will have a registration system and people who want to post a recipe wi
 
 ● Website response time: within 3 seconds
 
+ ---
+ 
+Casos de Usos:
+https://drive.google.com/file/d/1h8n83Cjsth5Hx8p440vkWklSLap8JG29/view?usp=drivesdk
 
