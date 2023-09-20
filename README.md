@@ -99,6 +99,7 @@ The site will have a registration system and people who want to post a recipe wi
 
  ---
  
-Casos de Usos:
-https://drive.google.com/file/d/1h8n83Cjsth5Hx8p440vkWklSLap8JG29/view?usp=drivesdk
+Casos de Usos/Use Cases:
+![image](https://github.com/renatonoronha/UNA-Cucina/assets/132279548/d27d002d-b5d5-4017-84a9-b94f741e89cb)
+
 
