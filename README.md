@@ -102,4 +102,48 @@ The site will have a registration system and people who want to post a recipe wi
 Casos de Usos/Use Cases:
 ![image](https://github.com/renatonoronha/UNA-Cucina/assets/132279548/d27d002d-b5d5-4017-84a9-b94f741e89cb)
 
+---
+
+
+Missão do Produto:
+
+O site UNA Cucina visa oferecer opções de receitas simples e rápidas de serem feitas para usuários que buscam por simplicidade na hora de cozinhar
+
+---
+
+![image](https://github.com/renatonoronha/UNA-Cucina/assets/132279548/b582858c-cbc9-4ddd-af0e-f4b35abf4aad)
+
+
+---
+
+Requisitos de qualidade
+
+1- Desempenho:
+O tempo de resposta do site deve ser de até 3 segundos para proporcionar uma experiência agradável ao usuário.
+
+2- Segurança:
+O sistema de cadastro e a revisão de receitas devem ser seguros para proteger as informações do usuário e garantir a integridade das receitas.
+
+3- Disponibilidade:
+O sistema do site deve ser estável e confiável, priorizando a minimização do tempo de indisponibilidade devido a manutenções programadas e não programadas. De forma que o site esteja sempre à disposição do cliente pelo maior tempo possível.
+
+4- Internacionalização:
+A opção de alterar o idioma de forma que atenda o cliente, independentemente de seu idioma, deve ser implementada de maneira eficaz, permitindo que usuários de diferentes países acessem o site.
+
+5- Eficiência:
+O sistema deve ser eficiente em termos de recursos, garantindo que os anúncios sejam exibidos de forma não intrusiva e que o desempenho geral do sistema não seja prejudicado.
+
+6- Escalabilidade:
+O sistema deve ser escalável para lidar com um aumento no número de receitas, usuários e tráfego, se necessário.
+
+7- Usabilidade:
+A interface do usuário deve ser intuitiva e fácil de usar, garantindo uma boa experiência do usuário ao navegar e interagir com as receitas.
+
+8- Salvamento e Download:
+Os usuários podem publicar e também baixar as receitas em formato PDF, aumentando a conveniência e usabilidade do site.
+
+9- Filtros:
+Filtros de pesquisa para categorizar receitas com base em estilos de comida, como quente, fria, veganas, doces, salgadas e ingredientes, facilitando a descoberta de receitas específicas.
+
+
 
