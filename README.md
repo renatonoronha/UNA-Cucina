@@ -118,6 +118,7 @@ O site UNA Cucina visa oferecer opções de receitas simples e rápidas de serem
 
 Requisitos de qualidade
 
+
 1- Desempenho:
 O tempo de resposta do site deve ser de até 3 segundos para proporcionar uma experiência agradável ao usuário.
 
