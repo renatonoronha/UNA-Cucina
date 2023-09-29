@@ -111,6 +111,8 @@ O site UNA Cucina visa oferecer opções de receitas simples e rápidas de serem
 
 ---
 
+**Lista de funções**
+
 ![image](https://github.com/renatonoronha/UNA-Cucina/assets/132279548/b582858c-cbc9-4ddd-af0e-f4b35abf4aad)
 
 
