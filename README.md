@@ -104,6 +104,129 @@ Casos de Usos/Use Cases:
 
 ---
 
+*Fluxos Principais e Alternativos*
+
+Fluxo Principal: Registrar Usuários
+
+1) O usuário preenche os campos de informações corretamente
+2) O usuário clica em registrar
+3) O banco de dados armazena as informações
+4) O usuário é logado automaticamente no site
+
+
+Fluxo Alternativo: Senha Inválida
+1a) Se o usuário não cumprir os requisitos de senha informados, o campo será resetado e poderá ser inserida uma nova senha
+
+Fluxo Alternativo: Campo de informações em branco
+2a) O sistema deverá informar visualmente em vermelho os campos que não foram preenchidos para o usuário e mostrar uma mensagem informando a obrigatoriedade do preenchimento
+
+Fluxo alternativo: Email já registrado/utilizado
+3a) O sistema deverá pedir um novo email e exibir uma mensagem de email já registrado
+
+Fluxo alternativo: Email inválido
+4a) Se o email digitado for inválido (não seguir o padrão de formatação), o sistema deverá requirir um novo email e exibir uma mensagem de email inválido
+
+Fluxo alternativo: Username já registrado
+5a) Se o nome de usuário já estiver registrado, o sistema deverá mostrar uma mensagem informando e pedir um novo username
+
+
+Fluxo Principal: Fazer login
+1) O usuário preenche os campos de informações corretamente
+2) O usuário decide se quer manter a conta logada e  em seguida clica em logar
+3) O sistema busca as informações do usuário no banco de dados
+4) O usuário é logado no site
+Fluxo Alternativo: Senha Incorreta
+1a) Se o usuário digitou a senha diferente da registrada no banco de dados, o sistema deverá mostrar uma mensagem de erro e deverá pedir para que digite novamente e mostrar uma opção de recuperar a senha.
+Fluxo Alternativo: Email/username não registrado
+2a) O usuário digitou um email/username que não está registrado no banco de dados, o sistema deverá mostrar uma mensagem de erro e deverá pedir a entrada de um email/username válido ou disponibilizar a opção para cadastrar o username, levando para a página de cadastro
+
+Fluxo Alternativo: Campos de informações em branco
+3a) Caso o usuário tenha preenchido as informações o sistema deverá exibir uma mensagem de erro indicando o não preenchimento dos campos e exigir credenciais corretas para fazer o login
+
+Fluxo alternativo: Email inválido
+4a) Se o email digitado for inválido (não seguir o padrão de formatação), o sistema deverá requirir um novo email e exibir uma mensagem de email inválido
+
+
+Fluxo Principal: Pesquisar Receitas
+1) O usuário realiza a pesquisa de uma receita pelo nome na barra de pesquisas ou pelos tópicos
+2) O sistema mostra as receitas que se encaixam na pesquisa na ordem decrescente de popularidade 
+
+Fluxo Alternativo: Nenhuma receita correspondente com a pesquisa
+1a) Caso nenhuma receita se enquadre na pesquisa realizada pelo usuário, informar uma mensagem de erro informando a situação
+
+Fluxo Alternativo: O usuário acredita que uma receita não se enquadra em uma categoria
+2a) Dentro da página da receita haverá um botão escrito “Acredita que há um erro de categoria?” em que o usuário será redirecionado para um formulário para explicar o porquê disso e que será revisado por um moderador para decidir se realmente há um erro e posteriormente retirar ou mudar de categoria
+Fluxo Principal: Favoritar Receitas
+1) O usuário faz login no site
+2) O usuário entra na página da receita que deseja favoritar
+3) O usuário clica na estrela para favoritar e a estrela preenche a cor por completo indicando que favoritou
+4) O sistema salva a página da receita no perfil do usuário em uma aba "favoritos"
+
+Fluxo Alternativo: O usuário tentar favoritar uma receita sem estar logado
+1a) Deverá aparecer uma mensagem de erro informando que é preciso estar logado no site para realizar a ação e disponibilizar uma opção para fazer o login
+
+Fluxo Principal: Baixar Receitas
+1) O usuário faz login no site
+2) O usuário entra na página da receita que deseja baixar
+3) O usuário clica no botão de download em baixo de favoritar e a receita é salva no seu computador em forma de pdf
+4) Uma mensagem de confirmação do download aparece
+
+Fluxo alternativo: o usuário tenta baixar uma receita sem estar logado 
+1a)  Se o usuário tentar baixar uma receita sem estar logado deverá aparecer uma mensagem de erro informando que é preciso estar logado no site para realizar a ação e disponibilizar uma opção para fazer o login
+Fluxo alternativo: o usuário tenta baixar uma receita e não tem armazenamento suficiente 
+2a) Se o usuário tentar baixar uma receita e não tiver espaço para armazenamento deverá aparecer uma mensagem de erro informando que o mesmo não possui armazenamento suficiente
+
+
+
+Fluxo Principal: Trocar Idioma
+1) O usuário clica no botão de trocar idioma e seleciona o idioma que deseja colocar no site
+2) O sistema troca o idioma pro idioma de destino
+
+Fluxo alternativo: o usuário não encontra o idioma desejado 
+1a) O usuário só conseguirá trocar o idioma do site para três idiomas, se o idioma não for o que ele precisa aparecerá uma mensagem de idioma não encontrado
+
+Fluxo Principal: Verificar Conta
+1) O revisador faz login no site
+2) Na aba de conta, ele clica na opção "Sou Revisador (ou Administrador)" e será redirecionado para uma página em que ele colocará o código de administração dele
+3) Aparecerá o painel de administração pra ele 
+4) Na aba de "contas", aparecerá usuários candidatos para terem as contas verificadas e desbloquearam mais funcionalidades
+5) O revisador decidirá quais usuários são aptos para ganharem o selo de verificação de acordo com suas atividades no site
+6) Se aprovado, chegará uma mensagem no email do usuário, e um aviso dentro do site, informando a situação e o selo será concedido. Se negado chegará uma mensagem no email e um aviso dentro do site lamentando e desejando mais sorte em tentativas futuras. Deverá ter um intervalo de 1 mês para poder solicitar o selo novamente.
+
+Fluxo Alternativo: Senha Incorreta
+1a) Se o revisador digitou a senha diferente da registrada no banco de dados, o sistema deverá mostrar uma mensagem de erro e deverá pedir para que digite novamente e mostrar uma opção de recuperar a senha.
+
+
+Fluxo Principal: Subir Receitas
+1) O usuário deverá estar logado no site
+2) O usuário deve ter um selo de verificação 
+3) Na aba de conta, terá a opção de "Subir receitas" em que ele preencherá todas as informações sobre a receita e terá a opção de colocar uma imagem junto e enviará
+4) Aparecerá uma mensagem informando que o enivo foi realizado e terá um tempo para a análise da receita por um revisador
+5) Se aprovado, chegará uma mensagem no email do usuário, e um aviso dentro do site, informando a situação e a receita será postada no site com o username. Se negado chegará uma mensagem no email e um aviso dentro do site informando os motivos pelo qual foi negado.
+6) Na aba de conta, terá um botão de "posts", que levará para todas as postagens realizadas pelo usuário
+
+Fluxo Alternativo: Senha Incorreta
+1a) Se o usuário digitou a senha diferente da registrada no banco de dados, o sistema deverá mostrar uma mensagem de erro e deverá pedir para que digite novamente e mostrar uma opção de recuperar a senha.
+
+Fluxo alternativo: O usuário não possui selo de verificação 
+2a) Se o usuário quiser subir uma receita ele precisa fazer uma solicitação do selo de verificação se o selo for negado pelo revisador ele não conseguirá subir receitas
+Fluxo alternativo: A receita não foi aceita 
+3a) Após enviar a receita ela passa por uma revisão se o arquivo enviado não for uma receita o arquivo será negado e o sistema deverá mandar um email para o usuário informando que o arquivo não foi aceito  
+
+Fluxo Principal: Revisar Receitas
+1) O revisador faz login no site
+2) Na aba de conta, ele clica na opção "Sou Revisador (ou Administrador)" e será redirecionado para uma página em que ele colocará o código de administração dele
+3) Aparecerá o painel de administração pra ele 
+4) Na aba de "receitas", aparecerá as receitas enviadas por usuários para serem postadas no site 
+5) O revisador decidirá quais receitas são aptos para serem postadas no site de acordo com o conteúdo
+6) Se aprovado, chegará uma mensagem no email do usuário, e um aviso dentro do site. Se negado chegará uma mensagem no email e um aviso dentro do site informando os motivos pelo qual foi negado.
+
+Fluxo Alternativo: Senha Incorreta
+1a) Se o revisador digitou a senha diferente da registrada no banco de dados, o sistema deverá mostrar uma mensagem de erro e deverá pedir para que digite novamente e mostrar uma opção de recuperar a senha.
+
+Fluxo alternativo: Um arquivo não é receita
+2a) Se o revisador receber um arquivo que não é uma receita ele deverá reprovar o arquivo e mandar um email para o usuário com o motivo do arquivo ter sido reprovado 
+
 
 Missão do Produto:
 
@@ -148,5 +271,15 @@ Os usuários podem publicar e também baixar as receitas em formato PDF, aumenta
 9- Filtros:
 Filtros de pesquisa para categorizar receitas com base em estilos de comida, como quente, fria, veganas, doces, salgadas e ingredientes, facilitando a descoberta de receitas específicas.
 
+---
 
+*Diagrama de classes*
+
+![image](https://github.com/renatonoronha/UNA-Cucina/assets/132279548/6e20e466-5c12-4978-835f-395d015ac41d)
+
+---
+
+*Banco de Dados*
+
+![image](https://github.com/renatonoronha/UNA-Cucina/assets/132279548/83b0e313-fa9d-40ac-ab54-7df56949f6a2)
 
